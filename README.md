@@ -1,0 +1,2 @@
+# Probability-prediction-for-an-student-of-passing-an-exam
+It is a logistic regression problem  to find out the probability or the chances of a student to pass the exam. The student is part of an online learning platform, and with the objective of this case study is to assess the performance of the learning platform. The success rate of students in exams is directly propotional to the success of platform.
